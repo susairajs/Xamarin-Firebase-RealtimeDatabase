@@ -1,0 +1,1 @@
+C:\Users\susai\Desktop\VisualStudio Source\XamarinFirebase\XamarinFirebase\XamarinFirebase.UWP\XamarinFirebase.UWP.csproj;x86
